@@ -243,12 +243,7 @@
 			<key>DropOem</key>
 			<false/>
 			<key>Generate</key>
-			<dict>
-				<key>CStates</key>
-				<false/>
-				<key>PStates</key>
-				<false/>
-			</dict>
+			<false/>
 		</dict>
 	</dict>
 	<key>Boot</key>
@@ -258,7 +253,7 @@
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
-		<string>MAC</string>
+		<string>Macintosh HD</string>
 		<key>Legacy</key>
 		<string>PBR</string>
 		<key>NoEarlyProgress</key>
@@ -266,7 +261,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>2</integer>
+		<integer>0</integer>
 		<key>XMPDetection</key>
 		<false/>
 	</dict>
@@ -307,7 +302,7 @@
 			<string>Windows</string>
 		</array>
 		<key>Language</key>
-		<string>en:0</string>
+		<string>zh_CN:0</string>
 		<key>Mouse</key>
 		<dict>
 			<key>DoubleClick</key>
@@ -365,9 +360,15 @@
 		<false/>
 		<key>AppleRTC</key>
 		<false/>
+		<key>AsusAICPUPM</key>
+		<false/>
 		<key>Debug</key>
 		<false/>
+		<key>DellSMBIOSPatch</key>
+		<false/>
 		<key>KernelCpu</key>
+		<false/>
+		<key>KernelHaswellE</key>
 		<false/>
 		<key>KernelLapic</key>
 		<false/>
